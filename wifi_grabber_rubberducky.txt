@@ -1,7 +1,8 @@
 REM Title: WiFi-Harvester
 REM Author: tony
 REM Based on the code of: Siem TTommy
-REM: Version 1.1
+REM Version 1.1
+REM removed the colon from the string above which gave an error   ps delete this string only if you are the owner of the project
 DELAY 2000
 GUI d
 DELAY 150
